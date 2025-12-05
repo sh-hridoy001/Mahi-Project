@@ -93,11 +93,11 @@
       display: none;
   }
 
- 
+ /* ('https://placehold.co/1920x1080/4f005c/ffffff?text=Mahi ')*/
       
   .home-section {
       background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)),
-          url('https://placehold.co/1920x1080/4f005c/ffffff?text=Beautiful+Flower+Background');
+          url(/img/pexels-pixabay-56866.jpg);
       background-size: cover;
       background-position: center;
       background-attachment: fixed;
